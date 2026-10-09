@@ -1,0 +1,9 @@
+# Java 编译产物（.class 字节码文件不纳入版本管理）
+*.class
+
+# 编译产生的临时目录
+target/
+
+# 系统文件
+.DS_Store
+Thumbs.db
